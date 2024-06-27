@@ -28,8 +28,7 @@
 
 
 <p align="center" style="margin-top: 30px;">
-    <a href="https://x.com/mahendra5495"><img src="https://skillicons.dev/icons?i=twitter," /></a>
-    <a href="www.linkedin.com/in/mahendra5495"><img src="https://skillicons.dev/icons?i=linkedin," /></a>
-    <a href="mailto:mahendrakshirsagar176@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-
+    <a target="_blank" href="https://x.com/mahendra5495"><img src="https://skillicons.dev/icons?i=twitter," /></a>
+    <a target="_blank" href="https://linkedin.com/in/mahendra5495"><img src="https://skillicons.dev/icons?i=linkedin," /></a>
+    <a target="_blank" href="mailto:mahendrakshirsagar176@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
