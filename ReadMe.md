@@ -1,21 +1,35 @@
-# 💫 About Me:
-👋 Hi there! I'm a Mahendra Kshirsagar.<br>🧑‍💻 I'm a CSE student from Pune, India.<br>🔭 I’m currently working on my technical skills and problem solving.<br>🌱 I’m currently learning Web development (ReactJS and ExpressJS).<br>⚡ Fun fact: When I'm not coding, you'll find me playing 🎮 games or watching 🍿 anime.
+<img alt="Banner" src="https://private-user-images.githubusercontent.com/82939327/343612401-8e0b8190-4632-443a-80b9-3db95c8741a3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk0NTY2MDUsIm5iZiI6MTcxOTQ1NjMwNSwicGF0aCI6Ii84MjkzOTMyNy8zNDM2MTI0MDEtOGUwYjgxOTAtNDYzMi00NDNhLTgwYjktM2RiOTVjODc0MWEzLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI3VDAyNDUwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ0NDRlYWRlYmU4MGQ5ZjBiOThiZmIwY2VhZjhlNjNmZjdjY2I3YzI1NjJhM2M3MjYxOGVhODFmOWM0ZjVkMGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.dpwkiH-0Dia9Y_pWPNr82pcYWnUf2BnmOFciko2Cr9Y" width="80%" style="margin-left: 120px" height="230px"/>
+
+## 👋 &nbsp;Hey there! I'm Mahendra
+
+### 👨🏻‍💻 &nbsp;About Me
+
+<div style="width: 75%;">
+🎓 &nbsp;I'm Computer Science graduate from India.<br/>
+🌱 &nbsp;I’m currently diving into Web Development, specifically ReactJS and ExpressJS, and I'm also exploring Data Structures, Backend Development, and Databases.<br/>
+💬 &nbsp;Feel free to reach out to me for some interesting discussion.<br/>
+</div>
+
+<img alt="img" src="https://private-user-images.githubusercontent.com/82939327/343612394-2f52e3d5-c956-4bbf-bfcf-656cca99eeab.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk0NTcwNTgsIm5iZiI6MTcxOTQ1Njc1OCwicGF0aCI6Ii84MjkzOTMyNy8zNDM2MTIzOTQtMmY1MmUzZDUtYzk1Ni00YmJmLWJmY2YtNjU2Y2NhOTllZWFiLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI3VDAyNTIzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkZDdmMTlmMWMxMmI4OTEyYmNmMGQ2MGJjZmU3M2RkMDZjNjRlMjU5ZmVjZjg5NWY5MzUxNjVhZGJlYjJhNzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xHFr1JNqLAVZLJ-UoAeRc3vEmqvMztYis-qjFqqjXBQ" align="right" width="25%"/>
+
+### 🛠 &nbsp;Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,html,css,react,nodejs,expressjs" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=tailwind,mongodb,mysql,git,github,vscode" />
+  </a>
+</p>
+
+<img alt="img" src="https://private-user-images.githubusercontent.com/82939327/343612405-1d5938b4-0756-4d46-a0d5-e81837e9c909.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk0NTcwNTgsIm5iZiI6MTcxOTQ1Njc1OCwicGF0aCI6Ii84MjkzOTMyNy8zNDM2MTI0MDUtMWQ1OTM4YjQtMDc1Ni00ZDQ2LWEwZDUtZTgxODM3ZTljOTA5LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI3VDAyNTIzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI4MDJlZTZlNjhiYWJkMTU0Njc1YzgzNDlkYTJhMzJjZjRiYjAxYzE5MTYwZmY4MDAwYmE1NzFmY2NhNTgzOTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.iciGmbK-aNmrj4fWBH54k4ZVmD_PtuoyHX0s6ZLlurM" align="right" width="15%"/>
+
+### 🤝🏻 &nbsp;Connect with Me
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mahendra.k.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahendra5495/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/Mahendra5495) 
+<p align="center" style="margin-top: 30px;">
+    <a href="https://x.com/mahendra5495"><img src="https://skillicons.dev/icons?i=twitter," /></a>
+    <a href="www.linkedin.com/in/mahendra5495"><img src="https://skillicons.dev/icons?i=linkedin," /></a>
+    <a href="mailto:mahendrakshirsagar176@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mahendra5495&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mahendra5495&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahendra5495&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mahendra5495&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Mahendra5495&icon=9&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
