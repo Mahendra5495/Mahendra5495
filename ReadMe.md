@@ -1,34 +1,61 @@
-<img alt="Banner" src="imgs/banner.jpg" width="80%" style="margin-left: 120px" height="230px"/>
+<div align="center">
 
-## 👋 &nbsp;Hey there! I'm Mahendra
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Mahendra%20Kshirsagar&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=QA%20Engineer%20%7C%20Automation%20in%20Progress&descAlignY=78&descSize=16" />
 
-### 👨🏻‍💻 &nbsp;About Me
-
-<div style="width: 75%;">
-🎓 &nbsp;I'm Computer Science graduate from India.<br/>
-🌱 &nbsp;I’m currently diving into Web Development, specifically ReactJS and ExpressJS, and I'm also exploring Data Structures, Backend Development, and Databases.<br/>
-💬 &nbsp;Feel free to reach out to me for some interesting discussion.<br/>
 </div>
 
-<img alt="img" src="imgs/1.jpg" align="right" width="25%"/>
+---
 
-### 🛠 &nbsp;Tech Stack
+### 👋 About Me
+
+I’m a QA Engineer based in Pune, currently working at **TCS** on enterprise-scale insurance applications.
+
+- 🏢 **QA Engineer @ TCS** — enterprise insurance systems, manual testing, defect lifecycle  
+- 🎓 **B.E. Computer Science (2024)**   
+- 📍 Pune, India  
+
+---
+
+### ⚙️ What I’m Working On
+
+- Building **automation frameworks** using `Selenium + Pytest`
+- Strengthening **API testing & backend understanding**
+- Improving **problem solving (DSA) + system thinking**
+
+---
+
+### 🛠 Tech Stack
+
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=python,django,selenium,pytest,git,github,postgres,postman,linux,jira,djangorestframework,rest,cucumber,)](https://i.icoziv.workers.dev)
+
+
+**Testing & Automation**  
+`Selenium` · `Pytest` · `Cucumber` · `Nightwatch.js` · `Manual Testing`  
+
+**Backend & APIs**  
+`Python` · `Django` · `Django REST Framework` · `REST APIs` · `Postgres`  
+
+**Tools & Workflow**  
+`Git` · `Postman` · `JIRA` · `Agile`  
+
+---
+
+### 🤝 Connect
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,html,css,react,nodejs,expressjs" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=tailwind,mongodb,mysql,git,github,vscode" />
+  <a href="https://linkedin.com/in/mahendra5495" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:mahendrakshirsagar176@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
-<img alt="img" src="imgs/2.jpg" align="right" width="15%"/>
+---
 
-### 🤝🏻 &nbsp;Connect with Me
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 
-<p align="center" style="margin-top: 30px;">
-    <a target="_blank" href="https://x.com/mahendra5495"><img src="https://skillicons.dev/icons?i=twitter," /></a>
-    <a target="_blank" href="https://linkedin.com/in/mahendra5495"><img src="https://skillicons.dev/icons?i=linkedin," /></a>
-    <a target="_blank" href="mailto:mahendrakshirsagar176@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+</div>
